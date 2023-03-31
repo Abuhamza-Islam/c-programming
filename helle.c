@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("This is abuhamza islam first c code");
+    printf("Hello world! How are you?");
     return 0;
 }
